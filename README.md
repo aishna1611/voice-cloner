@@ -1,4 +1,4 @@
-# VoiceClone 🎙️
+# VoiceCloner 🎙️
 
 A voice cloning application that takes a short audio sample of any speaker and uses it to generate
 realistic text-to-speech output in that person's voice. Upload a recording, type your text, and get
